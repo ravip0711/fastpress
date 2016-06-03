@@ -1,20 +1,4 @@
-// function getMarkers() {
-//   var player1 = prompt("Player 1, enter your key.")
-//   var player2 = prompt("player 2, enter your key.")
-// }
 
-// function updateCounter(player){
-//   var playerOneCounter = 0;
-//   var playerTwoCounter = 0;
-
-//   function() {
-//     if (player == "player1") {
-//       playerOneCounter += 1;
-//     } else if (player == "player2") {
-//       playerTwoCounter += 1;  
-//     }
-//   }
-// }
 
 function handleKeyDown(event) {
   var eventKey = event.which;
